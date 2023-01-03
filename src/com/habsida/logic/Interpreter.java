@@ -1,4 +1,6 @@
-class Interpreter {
+package com.habsida.logic;
+
+public class Interpreter {
     private final String expression;
     private int index;
 

@@ -1,3 +1,7 @@
+package com.habsida.logic;
+
+import com.habsida.logic.Interpreter;
+
 import java.util.Scanner;
 
 public class Main {
